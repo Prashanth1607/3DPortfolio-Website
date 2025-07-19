@@ -46,10 +46,7 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
+    
     {
       name: "React JS",
       icon: reactjs,
