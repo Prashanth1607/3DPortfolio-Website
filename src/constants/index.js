@@ -237,7 +237,7 @@ import {
     {
       name: "ChainVerify ",
       description:
-        "A blockchain-based supply chain platform where products are verified for authenticity using Ethereum smart contracts and QR codes. Users can register product ownership, transfer products securely between manufacturers, sellers, and consumers, and ensure transparent traceability at every stage.",
+        "A blockchain-based supply chain platform where products are authenticated using Ethereum smart contracts and QR codes. Users can register product ownership, transfer products securely between manufacturers, sellers, and consumers, and ensure transparent traceability at every stage.",
       tags: [
         {
           name: "solidity",
